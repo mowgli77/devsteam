@@ -1,0 +1,6 @@
+export const GET_PHOTOS = 'GET_PHOTOS'
+export const GET_MORE_PHOTOS = 'GET_MORE_PHOTOS'
+export const SET_CURRENT_PAGE = 'SET_CURRENT_PAGE'
+export const GET_PHOTO_TITLE = 'GET_PHOTO_TITLE'
+export const IS_REFRESHING = 'IS_REFRESHING'
+export const SHOW_ALERT = 'SHOW_ALERT'
